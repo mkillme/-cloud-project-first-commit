@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent/children/children.iml" filepath="$PROJECT_DIR$/parent/children/children.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" filepath="$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-parentproject/cloud-parentproject.iml" filepath="$PROJECT_DIR$/cloud-parentproject/cloud-parentproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-parentproject/pay-consumer/pay-consumer.iml" filepath="$PROJECT_DIR$/cloud-parentproject/pay-consumer/pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-parentproject/pay-service-provider/pay-service-provider.iml" filepath="$PROJECT_DIR$/cloud-parentproject/pay-service-provider/pay-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
